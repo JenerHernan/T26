@@ -1,0 +1,27 @@
+
+b{
+    color:cadetblue;
+    font-size: 32px;
+    font-family: Calibri;
+}
+h2{
+    margin-top: 0px;
+    padding-top: 24px;
+}
+#d1{
+    background-color:blanchedalmond;
+}
+h1{
+    background-color:darkgoldenrod;
+    margin-bottom: 0px;
+}
+.a{
+    color:cadetblue;
+}
+.b{
+    font-family: Calibri;
+    color:cornflowerblue;
+}
+.c{
+    padding-left:30px;
+}
